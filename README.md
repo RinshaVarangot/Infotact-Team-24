@@ -7,7 +7,7 @@ This repository presents a collaborative project focused on the travel and hospi
 
 ### Objectives
 
-Determine the key factors that influence booking cancellations such as lead time, deposit type, and customer segment.
+● Determine the key factors that influence booking cancellations such as lead time, deposit type, and customer segment.
 
 Visualize booking trends and seasonal demand patterns.
 
