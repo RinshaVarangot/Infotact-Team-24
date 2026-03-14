@@ -9,23 +9,23 @@ This repository presents a collaborative project focused on the travel and hospi
 
 ● Determine the key factors that influence booking cancellations such as lead time, deposit type, and customer segment.
 
-Visualize booking trends and seasonal demand patterns.
+● Visualize booking trends and seasonal demand patterns.
 
-Examine pricing elasticity and simulate dynamic pricing approaches.
+● Examine pricing elasticity and simulate dynamic pricing approaches.
 
-Deliver actionable insights that help maximize Revenue Per Available Room (RevPAR) and reduce cancellation rates.
+● Deliver actionable insights that help maximize Revenue Per Available Room (RevPAR) and reduce cancellation rates.
 
 ### Key Features
 
-Well-structured and reproducible Jupyter Notebook workflows.
+● Well-structured and reproducible Jupyter Notebook workflows.
 
-Customer segmentation and churn analysis.
+● Customer segmentation and churn analysis.
 
-Visualization of seasonal demand patterns and booking curves.
+● Visualization of seasonal demand patterns and booking curves.
 
-Baseline predictive models including logistic regression and decision trees.
+● Baseline predictive models including logistic regression and decision trees.
 
-Business performance metrics such as ADR (Average Daily Rate) and RevPAR for revenue evaluation.
+● Business performance metrics such as ADR (Average Daily Rate) and RevPAR for revenue evaluation.
 
 ### Team Collaboration
 
