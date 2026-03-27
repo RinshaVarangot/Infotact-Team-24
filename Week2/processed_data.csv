@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 iscanceled,leadtime,arrivaldateyear,arrivaldatemonth,arrivaldateweeknumber,arrivaldatedayofmonth,staysinweekendnights,staysinweeknights,adults,children,babies,meal,country,marketsegment,distributionchannel,isrepeatedguest,previouscancellations,previousbookingsnotcanceled,reservedroomtype,assignedroomtype,bookingchanges,deposittype,daysinwaitinglist,customertype,adr,requiredcarparkingspaces,totalofspecialrequests,reservationstatus,reservationstatusdate
 0,342,2015,July,27,1,0,0,2,0,0,BB,PRT,Direct,Direct,0,0,0,C,C,3,No Deposit,0,Transient,0.0,0,0,Check-Out,2015-07-01
 0,737,2015,July,27,1,0,0,2,0,0,BB,PRT,Direct,Direct,0,0,0,C,C,4,No Deposit,0,Transient,0.0,0,0,Check-Out,2015-07-01
@@ -33955,3 +33956,6 @@ iscanceled,leadtime,arrivaldateyear,arrivaldatemonth,arrivaldateweeknumber,arriv
 0,204,2017,August,35,29,4,10,2,0,0,BB,IRL,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,153.57,0,3,Check-Out,2017-09-12
 0,211,2017,August,35,31,4,10,2,0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Contract,112.8,0,1,Check-Out,2017-09-14
 0,161,2017,August,35,31,4,10,2,0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,99.06,0,0,Check-Out,2017-09-14
+=======
+
+>>>>>>> 0b86f79dfe5ab72810778a655aedbf3ce3ec42cf
