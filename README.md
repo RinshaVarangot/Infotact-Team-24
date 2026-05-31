@@ -1,4 +1,4 @@
-Data Analysis Projects – Infotact Solutions Internship
+Data Analysis Projects – Infotact Solutions 
 Overview
 This repository contains multiple data analysis projects completed during my internship at Infotact Solutions. These projects focus on data cleaning, exploratory data analysis (EDA), visualization, business insights, and data-driven decision-making using Python and related data analysis tools.
 The objective of these projects is to transform raw datasets into meaningful insights that can support business strategies and operational improvements.
@@ -14,9 +14,6 @@ Data Cleaning and Preprocessing
 
 
 Handling Missing Values
-
-
-Exploratory Data Analysis (EDA)
 
 
 Sales Trend Analysis
@@ -54,58 +51,10 @@ Seaborn
 
 Jupyter Notebook
 
+SQL Workbench
 
 
-2. Travel and Tourism Analysis
-Objective:
-Examine tourism-related data to understand travel patterns, destination popularity, customer preferences, and seasonal trends.
-Key Tasks:
-
-
-Data Cleaning
-
-
-Data Exploration
-
-
-Trend Analysis
-
-
-Customer Behavior Analysis
-
-
-Destination Performance Evaluation
-
-
-Data Visualization
-
-
-Insight Generation
-
-
-Tools Used:
-
-
-Python
-
-
-Pandas
-
-
-NumPy
-
-
-Matplotlib
-
-
-Seaborn
-
-
-Jupyter Notebook
-
-
-
-3. Hotel Booking Analysis
+2. Hotel Booking Analysis
 Objective:
 Analyze hotel booking data to understand booking behavior, cancellation patterns, customer demographics, and factors affecting reservations.
 Key Tasks:
@@ -159,7 +108,6 @@ Scikit-learn
 Jupyter Notebook
 
 
-
 Skills Demonstrated
 
 
@@ -190,31 +138,6 @@ Python Programming
 Data Storytelling
 
 
-
-Project Workflow
-
-
-Data Collection
-
-
-Data Cleaning and Preprocessing
-
-
-Exploratory Data Analysis (EDA)
-
-
-Feature Engineering (where applicable)
-
-
-Visualization and Trend Analysis
-
-
-Insight Generation
-
-
-Business Recommendations
-
-
 Key Outcomes
 
 
@@ -234,8 +157,5 @@ Improved decision-making through data-driven recommendations.
 Internship Information
 Internship Role: Data Analyst Intern
 Organization: Infotact Solutions
-Duration: Internship Program
-
-
 
 This project is created for educational and internship purposes as part of the internship program at Infotact Solutions.
