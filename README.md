@@ -138,7 +138,7 @@ Python Programming
 Data Storytelling
 
 
-Key Outcomes
+Key Outcomes:
 
 
 Identified important business trends and performance metrics.
